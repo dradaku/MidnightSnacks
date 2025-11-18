@@ -24,7 +24,7 @@ To protect both customers and restaurants, menus and recipes are uploaded privat
   Customers can share only the necessary information with restaurants via QR scan or pre-visit submission.
 
 - **AI Ingredient & Allergen Checker**  
-  Restaurants upload menus and recipes privately. AI analyses ingredients for allergen conflicts or restricted items without exposing the underlying recipes.
+  Restaurants upload menus and recipes privately via Midnight Network. AI analyses ingredients for allergen conflicts or restricted items without exposing the underlying recipes. Customers can discuss with the AI agent to work out what to order. This saves their time, the waiters time and makes everything more efficient.
 
 - **Consent & Privacy Enforcement (Midnight Smart Contracts)**  
   Midnight enforces who can access dietary summaries, for what purpose, and for how long, with cryptographic proofs of correct handling.
@@ -37,7 +37,7 @@ To protect both customers and restaurants, menus and recipes are uploaded privat
 
 ---
 
-## 🎯 Problem We Solve
+## 🎯 Problem we solve
 
 Research shows many individuals feel embarrassed or anxious when communicating dietary needs (allergies, gluten intolerance, halal requirements, vegan preferences, low-sugar diets, fitness goals, etc.).  
 This often results in:
@@ -46,13 +46,14 @@ This often results in:
 - Unsafe meals  
 - Miscommunication  
 - Social discomfort  
-- Inconsistent allergen compliance  
+- Inconsistent allergen compliance
+- Anxiety 
 
 Midnightsnacks.io removes these barriers through private, trustless dietary disclosure and privacy-preserving food safety checks.
 
 ---
 
-## 🏗️ How It Works (Technical Summary)
+## 🏗️ How it works (technical summary)
 
 - **Encrypted Off-Chain Storage** for user dietary profiles  
 - **Midnight Network Smart Contracts** for consent, policy rules, and selective disclosure  
@@ -78,7 +79,12 @@ Midnightsnacks.io removes these barriers through private, trustless dietary disc
 ## 🤝 Team
 
 Created by **Dr. Adaku Jennifer Agwunobi**  
-Digital health researcher, Oxford academic, and Web3 builder focused on privacy, wellbeing, and inclusive technology.
+Digital health researcher, Oxford academic, and Web3 builder focused on privacy, wellbeing, and inclusive technology. President of the Oxford Blockchain Society. Recently awarded Innovate UK KTN grant for project on cybersecurity and wellbeing.
+
+**Nishen Menerapitiya**  
+Oxford University Engineering alum and CardanOx team member.
+
+_Both Adaku and Nishen run CardanOx at the University of Oxford which is the Cardano stream of the Oxford Blockchain Society_
 
 ---
 
