@@ -82,7 +82,7 @@ Created by **Dr. Adaku Jennifer Agwunobi**
 Digital health researcher, Oxford academic, and Web3 builder focused on privacy, wellbeing, and inclusive technology. President of the Oxford Blockchain Society. Recently awarded Innovate UK KTN grant for project on cybersecurity and wellbeing.
 
 **Nishen Menerapitiya**  
-Oxford University Engineering alum and CardanOx team member.
+Nishen is an Oxford Engineering Science Graduate specialising in Medical Machine Learning and Robotics. He is also the Oxford Blockchain Society, CardanOx Community Hub manager. He enjoys as well as hosts events in all things blockchain, Federated Machine Learning, and Healthcare Innovation.
 
 _Both Adaku and Nishen run CardanOx at the University of Oxford which is the Cardano stream of the Oxford Blockchain Society_
 
