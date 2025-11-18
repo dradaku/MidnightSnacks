@@ -65,7 +65,7 @@ Midnightsnacks.io removes these barriers through private, trustless dietary disc
 
 ---
 
-## 🧰 Tech Stack (Proposed)
+## 🧰 Tech Stack
 
 - Midnight Network  
 - TypeScript / Rust  
